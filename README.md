@@ -20,4 +20,6 @@ I’m always messing around with something—whether it’s automating workflows
 - 🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/shams-e-shifat)  
 - ⚙️ **Dotfiles:** [Check them out](https://github.com/s-shifat/dotfiles)  
 
-https://github-readme-stats.vercel.app/api?username=s-shifat&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true
+
+![](https://github-readme-stats.vercel.app/api?username=s-shifat&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
+
