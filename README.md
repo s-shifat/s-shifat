@@ -15,11 +15,15 @@ I'm a **Python enthusiast** currently doing work-study at **Jackson State Univer
 
 I’m always messing around with something—whether it’s automating workflows, building machine learning models, or tweaking my **Linux setup** just right. If it's **tech**, I’m probably interested!  
 
+<!---
+<p float="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=s-shifat&theme=catpuccin_mocha&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=false&include_all_commits=false&count_private=true" alt="s-shifat github stats" width=500>
+</p>
+-->
+
 ### 🔗 Quick Links  
 - 📂 **Code Snippets:** [View here](https://s-shifat.github.io/code-snippets/)  
 - 🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/shams-e-shifat)  
 - ⚙️ **Dotfiles:** [Check them out](https://github.com/s-shifat/dotfiles)  
 
-
-![](https://github-readme-stats.vercel.app/api?username=s-shifat&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
