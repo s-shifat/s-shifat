@@ -1,7 +1,7 @@
 # Hey, I'm Shams E Shifat! 👋  
 
 ### 🖥️ About Me  
-I'm a **Python enthusiast** currently doing work-study at **Jackson State University** in the **Department of Civil and Environmental Engineering**. Here, I mostly work on **data analysis** and **ML/AI development** in relation with Civil Engineering.  
+I'm a **Python enthusiast** currently doing work-study at *Jackson State University* in the Department of Civil and Environmental Engineering. Here, I mostly work on **data analysis** and **ML/AI development** in relation with Civil Engineering.  
 
 🔹 **What I Work With & Explore:**  
 - 🐍 Python | SQL/PostgreSQL | Django  
