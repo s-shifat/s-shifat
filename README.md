@@ -24,9 +24,10 @@ I’m always messing around with something—whether it’s automating workflows
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s-shifat&layout=compact&theme=catpuccin_mocha&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=false)
 -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s-shifat&theme=catpuccin_mocha&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" height="200"/> &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-shifat&layout=compact&theme=catpuccin_mocha&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=false" alt="Top Languages" height="200"/>
+<p align="left">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-shifat&layout=compact&theme=catpuccin_mocha&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=false" alt="Top Languages" height="200"/>&nbsp;
+      <img src="https://github-readme-stats.vercel.app/api?username=s-shifat&theme=catpuccin_mocha&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&hide_border=false&include_all_commits=false&count_private=true" alt="GitHub Stats" height="200"/>
 </p>
 
 
