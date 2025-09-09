@@ -1,11 +1,11 @@
 # Hey, I'm Shams E Shifat! 👋  
 
 ### 🖥️ About Me  
-I'm a **Python enthusiast** currently doing work-study at *Jackson State University* in the Department of Civil and Environmental Engineering. Here, I mostly work on **data analysis** and **ML/AI development** in relation with Civil Engineering. I am currently exploring Nix and Nix-OS
+I'm a **Python enthusiast** currently doing work-study at *Jackson State University* in the Department of Civil and Environmental Engineering. Here, I mostly work on **data analysis** and **ML/AI development** in relation with Civil Engineering.
 
 🔹 **What I Work With & Explore:**  
 - 🐍 Python | SQL/PostgreSQL | Django  
-- 💻 Linux (Arch + Hyprland) | Vim/Nvim ([My Dotfiles](https://github.com/s-shifat/dotfiles))  
+- 💻 Linux (Arch + Hyprland) | Vim/Nvim ([My Dotfiles](https://github.com/s-shifat/dotfiles)) | I am currently exploring Nix and Nix-OS
 - 🤖 Machine Learning & Deep Learning  
 - 🏞️ Computer Vision  
 - 🌍 Data Science & Geospatial Analysis
